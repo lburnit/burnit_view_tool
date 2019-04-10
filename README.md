@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+BurnItViewTool::Renderer.copyright 'BurnIt Challenge', 'All rights reserved.'
+```
 
 ## Development
 

@@ -1,6 +1,6 @@
 require "burnit_view_tool/version"
 require "burnit_view_tool/renderer"
 
-module BurnitViewTool
+module BurnItViewTool
   # Your code goes here...
 end

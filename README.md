@@ -1,4 +1,4 @@
-# BurnitViewTool
+# BurnItViewTool
 
 > Various view specific methods for applications I use.
 

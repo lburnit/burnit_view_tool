@@ -5,7 +5,7 @@ require "burnit_view_tool/version"
 
 Gem::Specification.new do |spec|
   spec.name          = "burnit_view_tool"
-  spec.version       = BurnitViewTool::VERSION
+  spec.version       = BurnItViewTool::VERSION
   spec.authors       = ["lburnit"]
   spec.email         = ["leon.ward93@icloud.com"]
 
